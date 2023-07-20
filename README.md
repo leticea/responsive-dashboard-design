@@ -19,7 +19,7 @@
   <img alt="" src=".github/image3.png">
 </p>
 
-## Responsive Dashboard Design
+## Responsive Dashboard Interface
 
 ## 🚀 Tecnologias
 
