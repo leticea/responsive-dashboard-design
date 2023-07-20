@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto de um painel de administração responsivo.
+Projeto de uma interface de um painel de administração responsivo.
 
 Aula do canal [AsmrProg](https://www.youtube.com/watch?v=D88K1esxwuo)
 
